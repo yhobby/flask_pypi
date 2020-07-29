@@ -1,3 +1,3 @@
 # fake.pypi.org
 
-![Alt gif](https://github.com/yhobby/flaskqw/blob/master/fake-pypi-intro.gif)
+![fake-pypi-intro-gif](https://github.com/yhobby/flask/blob/master/fake-pypi-intro.gif)
